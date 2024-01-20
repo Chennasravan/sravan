@@ -1,0 +1,18 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon sp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "request": "^2.88.2"
+  }
+}
